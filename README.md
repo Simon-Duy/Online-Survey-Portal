@@ -2,16 +2,16 @@
 An website Application empowered by Java Servlet enables users who has registered to create online survey forms with multiple question types, customizes forms into favorite look and feel with integrated tools, as well as have ability to conduct ongoing surveys from other users
 
 ## Features
-• Manager Page
-⁃ Survey Management Layout: Survey Creation and Modifications
-⁃ Survey Insight Layout: helps view created survey quantity, number of conducted surveys
-⁃ Account Management with account decentralization capability
+### Manager Page
+- Survey Management Layout: Survey Creation and Modifications
+- Survey Insight Layout: helps view created survey quantity, number of conducted surveys
+- Account Management with account decentralization capability
 
-## User Page
-⁃ Registration form supports new user creation
-⁃ Approval system would prevent unauthorized users from accessing the portal
-⁃ Ability to conduct and view answered surveys
-⁃ Account information management mode supporting various information modifications
+### User Page
+- Registration form supports new user creation
+- Approval system would prevent unauthorized users from accessing the portal
+- Ability to conduct and view answered surveys
+- Account information management mode supporting various information modifications
 
 ## Deployement Steps
 - Unzip the download package by choosing “ Extract to … “ option with your personal, favored file archiver utility (either Winrar or 7Zip works best in this instances)
