@@ -16,8 +16,10 @@ An website Application empowered by Java Servlet enables users who has registere
 ## Deployement Steps
 - Unzip the download package by choosing “ Extract to … “ option with your personal, favored file archiver utility (either Winrar or 7Zip works best in this instances)
 - Download and install Java JDK-1.8 with the attached link
+https://drive.google.com/file/d/1Y8HGeztmSuK0lEA58y7HnrZSBt8HDTeE/view?usp=sharing
 - Download STS (Spring Tool Suite) IDE from the following link and run its portable version
-- Navigate to “File” tab from menu bar, import the existing project with “Existing Maven Project” Option
+https://drive.google.com/file/d/1IWw7TkAi65y2mA_sHNLuIsFNqsI0REMB/view?usp=sharing
+- Navigate to “File” tab from menu bar, import the existing project with “Existing Maven Project” Option <img src="https://user-images.githubusercontent.com/125796092/220126606-1a4c4de0-6e34-4196-a12f-9aef091a2d4f.png" width="750" height="400">
 - Right-click on imported project, navigate to ”Properties”
 - Navigate to “Java Build Path” -> “Tab Library” -> “JRE System Library” -> “Edit” -> Choose “JRE-1.8” -> Choose “Finish” -> Click on “Apply”
 - Navigate to “Order and Export” Tab -> Click on “JRE System Library” -> Click on “Apply”
