@@ -13,7 +13,7 @@ An website Application empowered by Java Servlet enables users who has registere
 - Ability to conduct and view answered surveys
 - Account information management mode supporting various information modifications
 
-## Deployement Steps
+## Deployment Steps
 - Unzip the download package by choosing “ Extract to … “ option with your personal, favored file archiver utility (either Winrar or 7Zip works best in this instances)
 
 - Download and install Java JDK-1.8 with the attached link
